@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Brilliantte;
+  src: url(../assets/Brilliantte.woff);
+}
+
 .backgroundVideo {
     position: absolute;
     left: 50%;
