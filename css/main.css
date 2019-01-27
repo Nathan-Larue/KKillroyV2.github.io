@@ -41,3 +41,44 @@ html, body {margin: 0; height: 100%; overflow: hidden}
   background-position: 0 0, 30px 30px;
 }
 
+.landingButtons {
+  background-color: rgba(0,0,0,0);
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.leftmostButtonPosition {
+  position: absolute;
+  left: 17%;
+  bottom: 20px;
+  transform: translate(-50%,0);
+
+}
+
+.leftButtonPosition {
+  position: absolute;
+  left: 34%;
+  bottom: 20px;
+  transform: translate(-50%,0);
+}
+
+.middleButtonPosition {
+  position: absolute;
+  left: 50%;
+  bottom: 20px;
+  transform: translate(-50%,0);
+}
+
+.rightButtonPosition {
+  position: absolute;
+  right: 34%;
+  bottom: 20px;
+  transform: translate(50%,0);
+}
+
+.rightmostButtonPosition {
+  position: absolute;
+  right: 17%;
+  bottom: 20px;
+  transform: translate(50%,0);
+}
