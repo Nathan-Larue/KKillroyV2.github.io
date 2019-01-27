@@ -45,6 +45,7 @@ html, body {margin: 0; height: 100%; overflow: hidden}
   background-color: rgba(0,0,0,0);
   border: 1px solid white;
   border-radius: 5px;
+  color:white;
   z-index: 1;
 }
 
